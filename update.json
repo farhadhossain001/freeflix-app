@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "updateUrl": "https://your-apk-download-link.com/app-v1.1.apk",
-  "releaseNotes": "নতুন আপডেট এ কিছু বাগ ফিক্স করা হয়েছে এবং নতুন ফিচার যোগ করা হয়েছে।"
+   "versionCode": 3,
+   "versionName": "1.2",
+   "releaseNotes": "Bug fixes and new features.",
+   "updateUrl": "YOUR_NEW_APK_LINK_HERE" 
 }
